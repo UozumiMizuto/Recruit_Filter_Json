@@ -1,4 +1,7 @@
 package.json
 package-lock.json
+bun.lock
 wrangler.jsonc
 README.md
+node_modules
+.wrangler
