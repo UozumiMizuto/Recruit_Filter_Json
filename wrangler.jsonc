@@ -1,0 +1,8 @@
+{
+  "name": "recruit-filter-json",
+  "compatibility_date": "2026-09-11",
+  // Worker スクリプト無し。リポジトリ直下の JSON をそのまま静的配信する。
+  "assets": {
+    "directory": "."
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "schema": "recruit-filter-database",
+  "version": 1,
+  "lists": [
+    { "id": "staffing", "name": "派遣会社", "file": "staffing.json" }
+  ]
+}
