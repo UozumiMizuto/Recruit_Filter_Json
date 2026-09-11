@@ -93,3 +93,4 @@ Jsonファイル内にコメントを記述することは禁止。
 ビルド不要（Workersの静的アセット配信でリポジトリ直下のJSONをそのまま返す）。  
 Cloudflare Workers（Git連携）のBuild commandは空欄のままでよい。  
 ローカルからは `npm install` の後 `npm run deploy` でデプロイ可能。
+  
