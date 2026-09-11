@@ -2,6 +2,12 @@
   "schema": "recruit-filter-database",
   "version": 1,
   "lists": [
-    { "id": "staffing", "name": "派遣会社", "file": "staffing.json" }
+    { "id": "ai-thumbnail", "name": "AIサムネイル使用", "file": "ai-thumbnail.json" },
+    { "id": "no-experience-engineer", "name": "未経験からエンジニア系", "file": "no-experience-engineer.json" },
+    { "id": "no-experience-designer", "name": "未経験からデザイナー系", "file": "no-experience-designer.json" },
+    { "id": "light-work", "name": "モクモク/軽作業系", "file": "light-work.json" },
+    { "id": "mobile-sales", "name": "携帯販売/スマホ教室系", "file": "mobile-sales.json" },
+    { "id": "staffing", "name": "派遣会社", "file": "staffing.json" },
+    { "id": "short-sleeve-uniform", "name": "支給/勤務着が半袖", "file": "short-sleeve-uniform.json" }
   ]
 }
